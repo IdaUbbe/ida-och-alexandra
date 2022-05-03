@@ -1,0 +1,91 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="@q[oZt/1CN.b%*.ttj3E">Slump</variable></variables><block type="device_show_leds" id="aL;`/xM=+p-jT0MH~CR3" disabled="true" x="153" y="-177"><field name="LEDS">`
+        . # # # . 
+        # # # # # 
+        # # # . . 
+        # # # # # 
+        . # # # .
+        `</field></block><block type="pxt-on-start" id="LO7nBH^KzB~=nwq;%jV5" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="tE-B{H5NGN_RhwXeyXLm"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="5(3CJhlTDyssMl8|{fC`"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="`8(tur,v(um[6$fQq$r4"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="=xb0w?qLX$-2V.qh#jSW"><field name="LEDS">`
+        . . . . . 
+        # . . . . 
+        . . . # . 
+        # . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="0;*n((lNdKIQ^vb$he)!"><field name="LEDS">`
+        # . . . . 
+        # # . . . 
+        . . . . # 
+        # # . . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="_Iqc6U,aUoBbL7n~i%on"><field name="LEDS">`
+        # # . . . 
+        # # # . . 
+        . . . . . 
+        # # # . . 
+        # # . . .
+        `</field><next><block type="device_show_leds" id="#4,0*@iq*a8de%J|EOwa"><field name="LEDS">`
+        . # # # . 
+        # # # . . 
+        # # . . . 
+        # # # . . 
+        . # # # .
+        `</field><next><block type="controls_repeat_ext" id="{#|;AU6N^JNMOMK1b)a}"><value name="TIMES"><shadow type="math_whole_number" id="8~8+z.~nG.:{mG3iUN%Q"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="5P^mw(d)lT[]k5o4?|9y"><field name="LEDS">`
+        . # # # . 
+        # # # # # 
+        # # . . . 
+        # # # # # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="Sk094?Gs-avb$m~SM(,="><field name="LEDS">`
+        . # # # # 
+        # # # # . 
+        # # . . . 
+        # # # # . 
+        . # # # #
+        `</field></block></next></block></statement><next><block type="device_show_leds" id="x3}BO=u$@qyzr,`/c_ZK"><field name="LEDS">`
+        . . # # # 
+        . # # # # 
+        . # # . . 
+        . # # # # 
+        . . # # #
+        `</field><next><block type="device_show_leds" id="bY5nj-I/IK0_@mSNNI,i"><field name="LEDS">`
+        . . . # # 
+        . . # # # 
+        . . # # . 
+        . . # # # 
+        . . . # #
+        `</field><next><block type="device_show_leds" id="R)2j1GjeE%SmxU(qyNyb"><field name="LEDS">`
+        . . . . # 
+        . . . # # 
+        . . . # # 
+        . . . # # 
+        . . . . #
+        `</field><next><block type="device_show_leds" id="}7t_`U0ZHnVXC5H8~=j/"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="9y%59h1t(F.(mY7UhB8b"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="iVi[r%l%f^,UkSA/#{Qs" x="658" y="85"><field name="NAME">Button.A</field></block><block type="device_print_message" id="vyHtSV_0u;3,(v]O%s+s" disabled="true" x="292" y="180"><value name="text"><shadow type="text" id="x=UlD^){h#Q+GY{2k?p9" disabled="true"><field name="TEXT">STEN</field></shadow></value></block><block type="device_forever" id="@ry_v9qR)#Fre;wv!71%" x="330" y="314"/><block type="logic_random" id="Sm{hWQ-f$7]Qj*%)0DTO" disabled="true" x="525" y="356"/><block type="device_button_event" id="o|0MCILAwO:n%xF=4nq+" disabled="true" x="535" y="453"><field name="NAME">Button.A</field></block><block type="logic_random" id="l2X}/W:W3mxvsC;gdTK4" disabled="true" x="264" y="579"/></xml>
